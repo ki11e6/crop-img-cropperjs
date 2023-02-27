@@ -1,0 +1,23 @@
+{
+  "name": "crop_image",
+  "version": "1.0.0",
+  "description": "cropper.js crop node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "crop",
+    "image",
+    "node.js",
+    "cropper.js"
+  ],
+  "author": "sharath",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "cropperjs": "^1.5.13"
+  }
+}

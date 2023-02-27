@@ -1,0 +1,25 @@
+img {
+  display: block;
+  width: 500px;
+  height: 600px;
+  max-width: 100%;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#output {
+  margin: 0 5px;
+}
+
+#cropImageBtn {
+  margin-top: 10px;
+  margin-left: 35%;
+  padding: 10px;
+  box-shadow: 2px 2px 4px #000000;
+  background-color: greenyellow;
+  font-weight: 800;
+}
